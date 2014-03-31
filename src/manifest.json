@@ -1,0 +1,20 @@
+{
+  "name": "chatwork",
+  "description": "chatwork",
+  "version": "0.0.1",
+  "app": {
+    "background": {
+      "scripts": [
+        "js/background.js"
+      ]
+    }
+  },
+  "permissions": [
+    "webview"
+  ],
+  "icons": {
+    "48": "image/icon_48.png",
+    "128": "image/icon_128.png"
+  },
+  "offline_enabled": true
+}
