@@ -1,6 +1,6 @@
 {
-  "name": "chatwork",
-  "description": "chatwork",
+  "name": "chatworking",
+  "description": "unofficial chatwork client",
   "version": "0.0.1",
   "app": {
     "background": {
